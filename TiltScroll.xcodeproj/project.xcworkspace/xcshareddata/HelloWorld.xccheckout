@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A4A4EBC8-AC0B-41F2-8886-01CEC3FD47BD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HelloWorld</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>76C041E4-0A73-4376-9900-AC4CCF04E17A</key>
+		<string>ssh://github.com/erica/iOS-6-Advanced-Cookbook.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>C01 - Device/05 - Scroller/HelloWorld.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>76C041E4-0A73-4376-9900-AC4CCF04E17A</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/erica/iOS-6-Advanced-Cookbook.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>76C041E4-0A73-4376-9900-AC4CCF04E17A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>76C041E4-0A73-4376-9900-AC4CCF04E17A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS-6-Advanced-Cookbook</string>
+		</dict>
+	</array>
+</dict>
+</plist>
