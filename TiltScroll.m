@@ -1,9 +1,7 @@
 //
 //  TiltScroll.m
-//  HelloWorld
 //
 //  Created by Kiran Lonikar on 07/12/13.
-//  Copyright (c) 2013 Erica Sadun. All rights reserved.
 //
 
 #import "TiltScroll.h"
