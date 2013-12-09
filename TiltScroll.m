@@ -36,8 +36,13 @@ static TiltScroll *onlyInstance = Nil;
     return onlyInstance;
 }
 
-- (void) items: (NSArray *) svs scrollWindow: (BOOL) windowScrollFlag {
+- (void) attachTo: (NSArray *) svs scrollWindow: (BOOL) windowScrollFlag {
     self.scrollViews = svs;
+    self.scrollWindow = windowScrollFlag;
+}
+
+- (void) attachToOne: (UIScrollView *) sv scrollWindow: (BOOL) windowScrollFlag {
+    self.scrollViews = [NSArray arrayWithObject:sv];
     self.scrollWindow = windowScrollFlag;
 }
 

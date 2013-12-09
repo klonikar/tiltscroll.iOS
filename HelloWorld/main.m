@@ -46,8 +46,8 @@
              sv.contentSize = destSize;
              
              [sv addSubview:imageView];
-             NSLog(@"Adding scroll view to tiltScroll");
-             [[TiltScroll sharedInstance] items:[NSArray arrayWithObject:sv] scrollWindow:false];
+             NSLog(@"Attaching scroll view to tiltScroll");
+             [[TiltScroll sharedInstance] attachToOne:sv scrollWindow:false];
          }];
      }];
 }

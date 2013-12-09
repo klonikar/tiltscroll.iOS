@@ -33,6 +33,8 @@
 - (void) end;
 
 // Call this method to change the scroll views to be updated through motion
-- (void) items: (NSArray *) svs scrollWindow: (BOOL) windowScrollFlag;
+- (void) attachTo: (NSArray *) svs scrollWindow: (BOOL) windowScrollFlag;
+
+- (void) attachToOne: (UIScrollView *) sv scrollWindow: (BOOL) windowScrollFlag;
 
 @end
